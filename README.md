@@ -58,4 +58,3 @@ print(supertrend_df)
 
 *   The ATR is calculated using a Simple Moving Average (SMA).
 *   The implementation involves iterative calculations for Final Bands and the Supertrend line, which are performed using loops internally for clarity and correctness within Polars' DataFrame structure.
-```
